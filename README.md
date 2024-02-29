@@ -1,0 +1,2 @@
+# SQL-ServerAsennus
+Ohjeita ja dokumentaatio  SQL Server Express- tietokantapalvelimen ja sen pääkäyttötyökalujen asentamisesta
